@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/djlli/packaging_tutorial/blob/main/packaging_tutorial/setup.py",
     project_urls={
         "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
     },
